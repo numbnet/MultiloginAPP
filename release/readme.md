@@ -1,9 +1,8 @@
-<div class="page-content">      
 
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-5141-unity-stable-2021-03-12" class="joli-heading">Что нового в Multilogin 5.14.1 Unity STABLE (2021/03/12)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.14.1">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=5.14.1" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Исправлено:
@@ -19,7 +18,7 @@
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-5140-unity-beta-2021-03-09" class="joli-heading">Что нового в Multilogin 5.14.0 Unity BETA (2021/03/09)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.14.0">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=5.14.0" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Новое:
@@ -50,7 +49,7 @@
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-5140-unity-beta-2021-03-09" class="joli-heading">Что нового в Multilogin 5.13.1 Unity BETA (2021/02/16)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.13.1">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=5.13.1" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Новое:
@@ -76,7 +75,7 @@
 
 <h2 id="multilogin-5121-unity-beta-2021-02-04" class="joli-heading">Что нового в Multilogin 5.12.1 Unity BETA (2021/02/04)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.12.1">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=5.12.1" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Исправлено:
@@ -89,7 +88,7 @@
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-5120-unity-beta-2021-02-01" class="joli-heading">Что нового в Multilogin 5.12.0 Unity BETA (2021/02/01)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.12.0">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=5.12.0" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Новое:
@@ -121,7 +120,7 @@
 
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-5111-unity-beta-2021-01-15" class="joli-heading">Что нового в Multilogin 5.11.1 Unity BETA (2021/01/15)</h2>
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.11.1">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=5.11.1" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Исправлено:
@@ -137,7 +136,7 @@
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-511-unity-beta-2020-12-18" class="joli-heading">Что нового в Multilogin 5.11 Unity BETA (2020/12/18)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.11">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=5.11" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Новое:
@@ -159,7 +158,7 @@
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-510-unity-stable-2020-11-25" class="joli-heading">Что нового в Multilogin 5.10 Unity STABLE (2020/11/25)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.10">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=5.10" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Новое
@@ -172,7 +171,7 @@
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-591-unity-stable-2020-11-10" class="joli-heading">Что нового в Multilogin 5.9.1 Unity STABLE (2020/11/10)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.9.1">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=5.9.1" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Новое:
@@ -189,7 +188,7 @@
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-590-unity-stable-2020-10-28" class="joli-heading">Что нового в Multilogin 5.9.0 Unity STABLE (2020/10/28)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.9.0">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=5.9.0" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Новое:
@@ -216,7 +215,7 @@
 
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-581-unity-stable-2020-10-07" class="joli-heading">Что нового в Multilogin 5.8.1 Unity STABLE (2020/10/07)</h2>
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.8.1">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=5.8.1" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Исправлено:
@@ -232,7 +231,7 @@
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-580-unity-stable-2020-09-30" class="joli-heading">Что нового в Multilogin 5.8.0 Unity STABLE (2020/09/30)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.8.0">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=5.8.0" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Новое:
@@ -259,7 +258,7 @@
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-571-unity-stable-2020-09-10" class="joli-heading">Что нового в Multilogin 5.7.1 Unity STABLE (2020/09/10)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.7.1">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=5.7.1" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Новое:
@@ -287,7 +286,7 @@ Puppeteer не работал с браузерными профилями Mimic
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-570-unity-beta-2020-08-27" class="joli-heading">Что нового в Multilogin 5.7.0 Unity BETA (2020/08/27)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.7.0">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=5.7.0" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Новое:
@@ -309,7 +308,7 @@ Puppeteer не работал с браузерными профилями Mimic
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-561-unity-beta-2020-08-12" class="joli-heading">Что нового в Multilogin 5.6.1 Unity BETA (2020/08/12)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.6.1">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=5.6.1" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Новое
@@ -322,7 +321,7 @@ Puppeteer не работал с браузерными профилями Mimic
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-554-unity-stable-2020-08-05" class="joli-heading">Что нового в Multilogin 5.5.4 Unity STABLE (2020/08/05)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.5.4">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=5.5.4" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Новое:
@@ -362,7 +361,7 @@ Puppeteer не работал с браузерными профилями Mimic
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-553-unity-stable-2020-07-22" class="joli-heading">Что нового в Multilogin 5.5.3 Unity STABLE (2020/07/22)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.5.3">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=5.5.3" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Новое:
@@ -390,7 +389,7 @@ WebRTC публичный IP-адрес отображал ‘N/A’ в брау
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-552-unity-stable-2020-07-07" class="joli-heading">Что нового в Multilogin 5.5.2 Unity STABLE (2020/07/07)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.5.2">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=5.5.2" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Исправлено:
@@ -401,7 +400,7 @@ WebRTC публичный IP-адрес отображал ‘N/A’ в брау
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-551-unity-stable-2020-07-03" class="joli-heading">Что нового в Multilogin 5.5.1 Unity STABLE (2020/07/03)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.5.1">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=5.5.1" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Исправлено:
@@ -423,7 +422,7 @@ WebRTC публичный IP-адрес отображал ‘N/A’ в брау
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-55-unity-beta-2020-06-22" class="joli-heading">Что нового в Multilogin 5.5 Unity BETA (2020/06/22)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.5">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=5.5" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Новое:
@@ -444,7 +443,7 @@ WebRTC публичный IP-адрес отображал ‘N/A’ в брау
 
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-540-unity-beta-2020-05-28" class="joli-heading">Что нового в Multilogin 5.4.0 Unity BETA (2020/05/28)</h2>
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.4.0">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=5.4.0" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Новое:
@@ -518,7 +517,7 @@ WebRTC публичный IP-адрес отображал ‘N/A’ в брау
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-531-unity-beta-2020-05-13" class="joli-heading">Что нового в Multilogin 5.3.1 Unity BETA (2020/05/13)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.3.1">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=5.3.1" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Исправлено:
@@ -531,7 +530,7 @@ WebRTC публичный IP-адрес отображал ‘N/A’ в брау
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-53-unity-beta-2020-05-08" class="joli-heading">Что нового в Multilogin 5.3 Unity BETA (2020/05/08)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.3">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=5.3" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Новое:
@@ -557,7 +556,7 @@ WebRTC публичный IP-адрес отображал ‘N/A’ в брау
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-52-unity-beta-2020-04-08" class="joli-heading">Что нового в Multilogin 5.2 Unity BETA (2020/04/08)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.2">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=5.2" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Новое:
@@ -574,7 +573,7 @@ WebRTC публичный IP-адрес отображал ‘N/A’ в брау
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-512-unity-beta-2020-03-24" class="joli-heading">Что нового в Multilogin 5.1.2 Unity BETA (2020/03/24)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.1.2">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=5.1.2" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Новое:
@@ -599,7 +598,7 @@ WebRTC публичный IP-адрес отображал ‘N/A’ в брау
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-511-unity-beta-2020-03-03" class="joli-heading">Что нового в Multilogin 5.1.1 Unity BETA (2020/03/03)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.1.1">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=5.1.1" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Новое:
@@ -621,7 +620,7 @@ WebRTC публичный IP-адрес отображал ‘N/A’ в брау
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-51-unity-beta-2020-02-20" class="joli-heading">Что нового в Multilogin 5.1 Unity BETA (2020/02/20)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.1">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=5.1" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Новое:
@@ -642,7 +641,7 @@ WebRTC публичный IP-адрес отображал ‘N/A’ в брау
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-506-unity-beta-2020-01-23" class="joli-heading">Что нового в Multilogin 5.0.6 Unity BETA (2020/01/23)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.0.6">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=5.0.6" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Новое:
@@ -667,7 +666,7 @@ WebRTC публичный IP-адрес отображал ‘N/A’ в брау
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-505-unity-beta-2020-01-21" class="joli-heading">Что нового в Multilogin 5.0.5 Unity BETA (2020/01/21)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.0.5">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=5.0.5" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Исправлено:
@@ -686,7 +685,7 @@ WebRTC публичный IP-адрес отображал ‘N/A’ в брау
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-504-unity-beta-2020-01-16" class="joli-heading">Что нового в Multilogin 5.0.4 Unity BETA (2020/01/16)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.0.4">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=5.0.4" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Исправлено:
@@ -703,7 +702,7 @@ WebRTC публичный IP-адрес отображал ‘N/A’ в брау
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-503-unity-beta-2020-01-09" class="joli-heading">Что нового в Multilogin 5.0.3 Unity BETA (2020/01/09)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.0.3">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=5.0.3" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Новое:
@@ -731,7 +730,7 @@ WebRTC публичный IP-адрес отображал ‘N/A’ в брау
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-501-unity-beta-2019-12-13" class="joli-heading">Что нового в Multilogin 5.0.1 Unity BETA (2019/12/13)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.0.1">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=5.0.1" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Новое:
@@ -757,7 +756,7 @@ WebRTC публичный IP-адрес отображал ‘N/A’ в брау
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-453-fire-stable-2019-12-09" class="joli-heading">Что нового в Multilogin 4.5.3 Fire STABLE (2019/12/09)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=4.5.3">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=4.5.3" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Новое:
@@ -778,7 +777,7 @@ WebRTC публичный IP-адрес отображал ‘N/A’ в брау
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-452-fire-beta-2019-12-05" class="joli-heading">Что нового в Multilogin 4.5.2 Fire BETA (2019/12/05)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=4.5.2">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=4.5.2" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Новое:
@@ -790,7 +789,7 @@ WebRTC публичный IP-адрес отображал ‘N/A’ в брау
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-451-fire-beta-2019-11-22" class="joli-heading">Что нового в Multilogin 4.5.1 Fire BETA (2019/11/22)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=4.5.1">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=4.5.1" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Новое:
@@ -814,7 +813,7 @@ WebRTC публичный IP-адрес отображал ‘N/A’ в брау
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-444-fire-stable-2019-11-22" class="joli-heading">Что нового в Multilogin 4.4.4 Fire STABLE (2019/11/22)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=4.4.4">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=4.4.4" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Исправлено:
@@ -825,7 +824,7 @@ WebRTC публичный IP-адрес отображал ‘N/A’ в брау
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-45-fire-beta-2019-11-08" class="joli-heading">Что нового в Multilogin 4.5 Fire BETA (2019/11/08)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=4.5">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=4.5" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Новое:
@@ -847,7 +846,7 @@ WebRTC публичный IP-адрес отображал ‘N/A’ в брау
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-443-fire-stable-2019-11-06" class="joli-heading">Что нового в Multilogin 4.4.3 Fire STABLE (2019/11/06)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=4.4.3">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=4.4.3" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Новое:
@@ -858,7 +857,7 @@ WebRTC публичный IP-адрес отображал ‘N/A’ в брау
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-442-fire-stable-2019-09-21" class="joli-heading">Что нового в Multilogin 4.4.2 Fire STABLE (2019/09/21)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=4.4.2">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=4.4.2" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Фиксы:
@@ -869,7 +868,7 @@ WebRTC публичный IP-адрес отображал ‘N/A’ в брау
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-441-fire-stable-2019-09-18" class="joli-heading">Что нового в Multilogin 4.4.1 Fire STABLE (2019/09/18)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=4.4.1">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=4.4.1" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Новое:
@@ -888,7 +887,7 @@ WebRTC публичный IP-адрес отображал ‘N/A’ в брау
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-44-fire-beta-2019-08-23" class="joli-heading">Что нового в Multilogin 4.4 Fire BETA (2019/08/23)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=4.4">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=4.4" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Новое:
@@ -911,7 +910,7 @@ WebRTC публичный IP-адрес отображал ‘N/A’ в брау
 
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-432-fire-stable-2019-08-07" class="joli-heading">Что нового в Multilogin 4.3.2 Fire STABLE (2019/08/07)</h2>
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=4.3.2">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=4.3.2" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Новое:
@@ -929,7 +928,7 @@ WebRTC публичный IP-адрес отображал ‘N/A’ в брау
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-431-fire-stable-2019-07-25" class="joli-heading">Что нового в Multilogin 4.3.1 Fire STABLE (2019/07/25)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=4.3.1">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=4.3.1" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Новое:
@@ -966,7 +965,7 @@ WebRTC публичный IP-адрес отображал ‘N/A’ в брау
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-43-fire-beta-2019-06-28" class="joli-heading">Что нового в Multilogin 4.3 Fire BETA (2019/06/28)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=4.3">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=4.3" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Новое:
@@ -991,7 +990,7 @@ WebRTC публичный IP-адрес отображал ‘N/A’ в брау
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-42-fire-beta-2019-06-11" class="joli-heading">Что нового в Multilogin 4.2 Fire BETA (2019/06/11)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=4.2">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=4.2" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Новое:
@@ -1008,7 +1007,7 @@ WebRTC публичный IP-адрес отображал ‘N/A’ в брау
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-412-fire-stable-2019-05-30" class="joli-heading">Что нового в Multilogin 4.1.2 Fire STABLE (2019/05/30)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=4.1.2">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=4.1.2" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Новое:
@@ -1027,7 +1026,7 @@ WebRTC публичный IP-адрес отображал ‘N/A’ в брау
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-41-fire-stable-2019-05-08" class="joli-heading">Что нового в Multilogin 4.1 Fire STABLE (2019/05/08)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=4.1">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=4.1" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Новое:
@@ -1057,7 +1056,7 @@ WebRTC публичный IP-адрес отображал ‘N/A’ в брау
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-401-fire-beta-2019-04-19" class="joli-heading">Что нового в Multilogin 4.0.1 Fire BETA (2019/04/19)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=4.0.1">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=4.0.1" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Исправлено:
@@ -1069,7 +1068,7 @@ WebRTC публичный IP-адрес отображал ‘N/A’ в брау
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-40-fire-beta-2019-04-05" class="joli-heading">Что нового в Multilogin 4.0 Fire BETA (2019/04/05)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=4.0">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=4.0" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Новое:
@@ -1092,7 +1091,7 @@ WebRTC публичный IP-адрес отображал ‘N/A’ в брау
 
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-333-rise-stable" class="joli-heading">Что нового&nbsp;в Multilogin 3.3.3 Rise STABLE</h2>
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=3.3.3 Rise STABLE</h2>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=3.3.3 Rise STABLE</h2>
 <!-- ## -->
 
 Исправлено:
@@ -1103,7 +1102,7 @@ WebRTC публичный IP-адрес отображал ‘N/A’ в брау
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-332-rise-stable-2019-04-03" class="joli-heading">Что нового в Multilogin 3.3.2 Rise STABLE (2019/04/03)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=3.3.2">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=3.3.2" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Исправлено:
@@ -1114,7 +1113,7 @@ WebRTC публичный IP-адрес отображал ‘N/A’ в брау
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-331-rise-stable-2019-03-29" class="joli-heading">Что нового в Multilogin 3.3.1 Rise STABLE (2019/03/29)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=3.3.1">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=3.3.1" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Исправлено:
@@ -1130,7 +1129,7 @@ WebRTC публичный IP-адрес отображал ‘N/A’ в брау
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-33-rise-stable-2019-03-28" class="joli-heading">Что нового в Multilogin 3.3 Rise STABLE (2019/03/28)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=3.3">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=3.3" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Новое:<br>
@@ -1155,7 +1154,7 @@ WebRTC публичный IP-адрес отображал ‘N/A’ в брау
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-321-rise-private-2019-03-20" class="joli-heading">Что нового в Multilogin 3.2.1 Rise PRIVATE (2019/03/20)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=3.2.1">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=3.2.1" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Новое:
@@ -1181,7 +1180,7 @@ WebRTC публичный IP-адрес отображал ‘N/A’ в брау
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-32-rise-beta-2019-02-27" class="joli-heading">Что нового в Multilogin 3.2 Rise BETA (2019/02/27)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=3.2">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=3.2" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 <ul>
 </li>Экспериментальный функционал: Компонент CookieRobot 1.0 для автоматизации сбора куки-файлов<li>
@@ -1202,7 +1201,7 @@ WebRTC публичный IP-адрес отображал ‘N/A’ в брау
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-312-rise-stable-2019-02-13" class="joli-heading">Что нового в Multilogin 3.1.2 Rise STABLE (2019/02/13)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=3.1.2">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=3.1.2" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 <ul>
 <li class="p2">Исправлен баг с компоновкой браузерных отпечатков при смене типа браузера</li>
@@ -1212,7 +1211,7 @@ WebRTC публичный IP-адрес отображал ‘N/A’ в брау
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-311-rise-stable-2019-02-12" class="joli-heading">Что нового в Multilogin 3.1.1 Rise STABLE (2019/02/12)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=3.1.1">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=3.1.1" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 <ul>
 <li class="p2">Выпущен API v2. Доступен пользователям с подпиской Scale или одним из пакетов Автоматизации</li>
@@ -1240,7 +1239,7 @@ WebRTC публичный IP-адрес отображал ‘N/A’ в брау
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-31-rise-beta-2019-01-06" class="joli-heading">Что нового в Multilogin 3.1 Rise BETA (2019/01/06)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=3.1">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=3.1" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 <ul>
 </li>Added an option to save logins, passwords, and other form data<li>
@@ -1271,7 +1270,7 @@ Notes:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-304-rise-beta-2018-11-24" class="joli-heading">Что нового в Multilogin 3.0.4 Rise BETA (2018/11/24)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=3.0.4">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=3.0.4" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 <ul>
 </li>Fixed cookies not restored in certain cases in Mimic browser<li>
@@ -1281,7 +1280,7 @@ Notes:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-303-rise-beta-2018-11-19" class="joli-heading">Что нового в Multilogin 3.0.3 Rise BETA (2018/11/19)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=3.0.3">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=3.0.3" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 <ul>
 </li>Fixed a bug with cookie saving in Stealthfox browser</li>
@@ -1290,7 +1289,7 @@ Notes:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-302-rise-beta-2018-11-14" class="joli-heading">Что нового в Multilogin 3.0.2 Rise BETA (2018/11/14)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=3.0.2">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=3.0.2" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 <ul>
 </li>Fixed application not launching on Windows with 16-bit interface language (Chinese, Arabic etc)<li>
@@ -1312,7 +1311,7 @@ Notes:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-301-rise-beta-2018-11-01" class="joli-heading">Что нового в Multilogin 3.0.1 Rise BETA (2018/11/01)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=3.0.1">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=3.0.1" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 <ul>
 <li data-fontsize="35" data-lineheight="45">Mimic engine updated to Chrome 67</li>
@@ -1340,7 +1339,7 @@ Notes:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-233-deep-blue-stable-stage-private-beta-2018-09-30" class="joli-heading">Что нового в Multilogin 2.3.3 Deep Blue STABLE (Stage: private beta, 2018/09/30)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=2.3.3">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=2.3.3" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 <ul>
 <li data-fontsize="35" data-lineheight="45">BAS integration is now operable</li>
@@ -1350,7 +1349,7 @@ Notes:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-232-deep-blue-stable-2018-08-28" class="joli-heading">Что нового в Multilogin 2.3.2 Deep Blue STABLE (2018/08/28)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=2.3.2">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=2.3.2" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 <ul>
 <li data-fontsize="35" data-lineheight="45">Mostly server-side improvements to ensure 24/7 operation stability</li>
@@ -1361,7 +1360,7 @@ Notes:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-231-deep-blue-beta-2018-08-17" class="joli-heading">Что нового в Multilogin 2.3.1 Deep Blue BETA (2018/08/17)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=2.3.1">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=2.3.1" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 <ul>
 <li data-fontsize="35" data-lineheight="45">White label version support</li>
@@ -1372,7 +1371,7 @@ Notes:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-23-deep-blue-beta-2018-07-25" class="joli-heading">Что нового в Multilogin 2.3 Deep Blue BETA (2018/07/25)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=2.3">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=2.3" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 <ul>
 </li>Improved proxy component for proxies with password authentication<li>
@@ -1405,7 +1404,7 @@ Notes:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-22-deep-blue-beta-2018-06-27" class="joli-heading">Что нового в Multilogin 2.2 Deep Blue BETA (2018/06/27)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=2.2">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=2.2" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 <ul>
 </li>Added Proxy plugin list view 1.0 component<li>
@@ -1420,7 +1419,7 @@ Notes:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-214-deep-blue-stable-2018-06-08" class="joli-heading">Что нового в Multilogin 2.1.4 Deep Blue STABLE (2018/06/08)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=2.1.4">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=2.1.4" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 <ul>
 </li>Added local API endpoints for browser profile Share and Clone actions<li>
@@ -1443,7 +1442,7 @@ Known problems:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-213-deep-blue-stable-2018-05-23" class="joli-heading">Что нового в Multilogin 2.1.3 Deep Blue STABLE (2018/05/23)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=2.1.3">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=2.1.3" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 <ul>
 </li>Separated fingerprint databases for Free and Premium subscription users<li>
@@ -1456,7 +1455,7 @@ Known problems:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-212-deep-blue-hotfix-2018-05-11" class="joli-heading">Что нового в Multilogin 2.1.2 Deep Blue HOTFIX (2018/05/11)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=2.1.2">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=2.1.2" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 <ul>
 </li>Browser fingerprint consistency improvement<li>
@@ -1493,7 +1492,7 @@ The list of known issues which are not yet fixed:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-211-deep-blue-hotfix-2018-04-20" class="joli-heading">Что нового в Multilogin 2.1.1 Deep Blue HOTFIX (2018/04/20)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=2.1.1">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=2.1.1" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 <ul>
 <li>Fixed problems with cookies, Local Storage, IndexedDB and extensions being partially not synchronized</li>
@@ -1511,7 +1510,7 @@ The list of known issues which are not yet fixed:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-21-deep-blue-2018-04-10" class="joli-heading">Что нового в Multilogin 2.1 Deep Blue (2018/04/10)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=2.1">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=2.1" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 <ul>
 </li>Added IndexedDB storage support<li>
@@ -1549,7 +1548,7 @@ The list of known issues which are not yet fixed:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-20-deep-blue-2018-03-27" class="joli-heading">Что нового в Multilogin 2.0 Deep Blue (2018/03/27)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=2.0">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=2.0" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 <ul>
 </li>New user interface<li>
@@ -1560,7 +1559,7 @@ The list of known issues which are not yet fixed:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-1410-private-beta-only" class="joli-heading">Что нового в Multilogin 1.4.10 (private beta only)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=1.4.10">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=1.4.10" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 <ul>
 </li>Browser Automation Studio integration driver<li>
@@ -1570,7 +1569,7 @@ The list of known issues which are not yet fixed:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-149-2018-03-27" class="joli-heading">Что нового в Multilogin 1.4.9 (2018/03/27)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=1.4.9">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=1.4.9" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 <ul>
 </li>Local storage support<li>
@@ -1588,7 +1587,7 @@ The list of known issues which are not yet fixed:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-148-2018-03-07" class="joli-heading">Что нового в Multilogin 1.4.8 (2018/03/07)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=1.4.8">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=1.4.8" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 <ul>
 </li>Added WebGL controller to Mimic browser<li>
@@ -1600,7 +1599,7 @@ The list of known issues which are not yet fixed:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-147-2018-02-22" class="joli-heading">Что нового в Multilogin 1.4.7 (2018/02/22)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=1.4.7">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=1.4.7" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 <ul>
 </li>Production version of Mimic browser is now included<li>
@@ -1622,7 +1621,7 @@ The list of known issues which are not yet fixed:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-146-2018-01-02" class="joli-heading">Что нового в Multilogin 1.4.6 (2018/01/02)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=1.4.6">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=1.4.6" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Changes/fixes in Multiloginapp:
@@ -1634,7 +1633,7 @@ Changes/fixes in Multiloginapp:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-145-2018-04-01" class="joli-heading">Что нового в Multilogin 1.4.5 (2018/04/01)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=1.4.5">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=1.4.5" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Changes/fixes in Multiloginapp:
@@ -1648,7 +1647,7 @@ Changes/fixes in Multiloginapp:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-144-2017-11-13" class="joli-heading">Что нового в Multilogin 1.4.4 (2017/11/13)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=1.4.4">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=1.4.4" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Changes/fixes in Multiloginapp:
@@ -1667,7 +1666,7 @@ Changes/fixes in Multiloginapp:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-143-2017-10-25" class="joli-heading">Что нового в Multilogin 1.4.3 (2017/10/25)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=1.4.3">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=1.4.3" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Changes/fixes in Multiloginapp:
@@ -1680,7 +1679,7 @@ Changes/fixes in Multiloginapp:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-142-2017-10-17" class="joli-heading">Что нового в Multilogin 1.4.2 (2017/10/17)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=1.4.2">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=1.4.2" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Changes/fixes in Multiloginapp:
@@ -1706,7 +1705,7 @@ Changes/fixes in Stealthfox
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-141-2017-06-14" class="joli-heading">Что нового в Multilogin 1.4.1 (2017/06/14)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=1.4.1">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=1.4.1" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Changes/fixes:
@@ -1717,7 +1716,7 @@ Changes/fixes:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-140-2017-06-07" class="joli-heading">Что нового в Multilogin 1.4.0 (2017/06/07)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=1.4.0">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=1.4.0" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Changes/fixes:
@@ -1734,7 +1733,7 @@ Changes/fixes:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-1318-2017-05-08" class="joli-heading">Что нового в Multilogin 1.3.18 (2017/05/08)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=1.3.18">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=1.3.18" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Changes/fixes:
@@ -1745,7 +1744,7 @@ Changes/fixes:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-1317-2017-04-26" class="joli-heading">Что нового в Multilogin 1.3.17 (2017/04/26)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=1.3.17">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=1.3.17" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Changes/fixes:
@@ -1757,7 +1756,7 @@ Changes/fixes:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-1316-2017-04-11" class="joli-heading">Что нового в Multilogin 1.3.16 (2017/04/11)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=1.3.16">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=1.3.16" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Changes/fixes:
@@ -1773,7 +1772,7 @@ Changes/fixes:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-1315-2017-03-21" class="joli-heading">Что нового в Multilogin 1.3.15 (2017/03/21)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=1.3.15">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=1.3.15" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Changes/fixes:
@@ -1797,7 +1796,7 @@ Changes/fixes:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-1314-2017-01-07" class="joli-heading">Что нового в Multilogin 1.3.14 (2017/01/07)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=1.3.14">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=1.3.14" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Changes/fixes:
@@ -1813,7 +1812,7 @@ Changes/fixes:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-1313-2016-11-28" class="joli-heading">Что нового в Multilogin 1.3.13 (2016/11/28)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=1.3.13">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=1.3.13" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Changes/fixes:
@@ -1831,7 +1830,7 @@ Changes/fixes:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-1312-2016-11-03" class="joli-heading">Что нового в Multilogin 1.3.12 (2016/11/03)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=1.3.12">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=1.3.12" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Changes/fixes:
@@ -1845,7 +1844,7 @@ Changes/fixes:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-1311-2016-10-23" class="joli-heading">Что нового в Multilogin 1.3.11 (2016/10/23)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=1.3.11">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=1.3.11" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Changes/fixes:
@@ -1862,7 +1861,7 @@ Changes/fixes:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-1310-2016-09-19" class="joli-heading">Что нового в Multilogin 1.3.10 (2016/09/19)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=1.3.10">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=1.3.10" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Changes/fixes:
@@ -1876,7 +1875,7 @@ Changes/fixes:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-139-2016-09-09" class="joli-heading">Что нового в Multilogin 1.3.9 (2016/09/09)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=1.3.9">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=1.3.9" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Changes/fixes:
@@ -1888,7 +1887,7 @@ Changes/fixes:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-138-2016-09-02" class="joli-heading">Что нового в Multilogin 1.3.8 (2016/09/02)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=1.3.8">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=1.3.8" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Changes/fixes:
@@ -1907,7 +1906,7 @@ Changes/fixes:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-137-2016-08-26" class="joli-heading">Что нового в Multilogin 1.3.7 (2016/08/26)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=1.3.7">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=1.3.7" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Changes/fixes:
@@ -1920,7 +1919,7 @@ Changes/fixes:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-136-2016-08-15" class="joli-heading">Что нового в Multilogin 1.3.6 (2016/08/15)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=1.3.6">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=1.3.6" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Changes/fixes:
@@ -1932,7 +1931,7 @@ Changes/fixes:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-135-2016-08-01" class="joli-heading">Что нового в Multilogin 1.3.5 (2016/08/01)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=1.3.5">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=1.3.5" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Changes/fixes:
@@ -1945,7 +1944,7 @@ Changes/fixes:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-133-2016-07-20" class="joli-heading">Что нового в Multilogin 1.3.3 (2016/07/20)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=1.3.3">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=1.3.3" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Changes/fixes:
@@ -1958,7 +1957,7 @@ Changes/fixes:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-132-2016-07-13" class="joli-heading">Что нового в Multilogin 1.3.2 (2016/07/13)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=1.3.2">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=1.3.2" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Changes/fixes:
@@ -1970,7 +1969,7 @@ Changes/fixes:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-131-2016-06-22" class="joli-heading">Что нового в Multilogin 1.3.1 (2016/06/22)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=1.3.1">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=1.3.1" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Changes/fixes:
@@ -1983,7 +1982,7 @@ Changes/fixes:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-130-2016-06-14" class="joli-heading">Что нового в Multilogin 1.3.0 (2016/06/14)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=1.3.0">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=1.3.0" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Changes/fixes:
@@ -1997,7 +1996,7 @@ Changes/fixes:
 
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-1221-2016-05-17" class="joli-heading">Что нового в Multilogin 1.2.21 (2016/05/17)</h2>
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=1.2.21">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=1.2.21" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Changes/fixes:
@@ -2009,7 +2008,7 @@ Changes/fixes:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-1220-2016-05-03" class="joli-heading">Что нового в Multilogin 1.2.20 (2016/05/03)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=1.2.20">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=1.2.20" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Changes/fixes:
@@ -2019,7 +2018,7 @@ Changes/fixes:
 
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-1219-2016-05-03" class="joli-heading">Что нового в Multilogin 1.2.19 (2016/05/03)</h2>
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=1.2.19">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=1.2.19" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Changes/fixes:
@@ -2030,7 +2029,7 @@ Changes/fixes:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-1218-2016-04-27" class="joli-heading">Что нового в Multilogin 1.2.18 (2016/04/27)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=1.2.18">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=1.2.18" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Changes/fixes:
@@ -2043,7 +2042,7 @@ Changes/fixes:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-1217-2016-04-05" class="joli-heading">Что нового в Multilogin 1.2.17 (2016/04/05)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=1.2.17">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=1.2.17" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Changes/fixes:
@@ -2054,7 +2053,7 @@ Changes/fixes:
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <h2 id="multilogin-1215-2016-03-14" class="joli-heading">Что нового в Multilogin 1.2.15 (2016/03/14)</h2>
 
-<a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=1.2.15">СКАЧАТЬ</a>
+<a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=1.2.15" target="_blank">СКАЧАТЬ</a>
 <!-- ## -->
 
 Changes/fixes:
@@ -2064,4 +2063,3 @@ Changes/fixes:
 </li>Released first build of Stealthfox browser for Windows<li>
 </li>Updated browser profile edit forms</li>
 </ul>
-</div>
