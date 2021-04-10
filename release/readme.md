@@ -5,13 +5,11 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.14.1">СКАЧАТЬ</a>
 <!-- ## -->
-		<p data-renderer-start-pos="1">
-<strong>Исправлено:</strong>
-</p>
+		<p><strong>Исправлено:</strong></p>
 <ul class="ak-ol" data-indent-level="1">
-<li>		<p data-renderer-start-pos="16">Браузерные профили Stealthfox вылетали на некоторых компьютерах.</p>
+<li>		<p>Браузерные профили Stealthfox вылетали на некоторых компьютерах.</p>
 <li>
-</li>		<p data-renderer-start-pos="84">Дополнительные исправления в интерфейсе.</p>
+</li>		<p>Дополнительные исправления в интерфейсе.</p>
 </li>
 </ul>
 
@@ -20,25 +18,22 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.14.0">СКАЧАТЬ</a>
 <!-- ## -->
-		<p data-renderer-start-pos="1">
-<strong data-renderer-mark="true">Новое:</strong>
-</p>
+		<p><strong data-renderer-mark="true">Новое:</strong></p>
 <ul class="ak-ul" data-indent-level="1">
-<li>		<p data-renderer-start-pos="1">Возможность оптимизации приложения для работы с определенными веб-сайтами</p>
+<li>		<p>Возможность оптимизации приложения для работы с определенными веб-сайтами</p>
 <li>
-</li>		<p data-renderer-start-pos="1">Улучшены элементы маскировки Canvas и WebGL для браузерных профилей Stealthfox</p>
+</li>		<p>Улучшены элементы маскировки Canvas и WebGL для браузерных профилей Stealthfox</p>
 </li>
-</ul>		<p data-renderer-start-pos="148">
-<strong data-renderer-mark="true">Исправлено:</strong>
-</p>
+</ul>		<p>
+<strong data-renderer-mark="true">Исправлено:</strong></p>
 <ul class="ak-ul" data-indent-level="1">
-<li>		<p data-renderer-start-pos="164">Ошибка при смене пароля</p>
+<li>		<p>Ошибка при смене пароля</p>
 <li>
-</li>		<p data-renderer-start-pos="164">Проблемы с загрузкой браузерных компонентов при медленном интернет-соединении в определенных странах</p>
+</li>		<p>Проблемы с загрузкой браузерных компонентов при медленном интернет-соединении в определенных странах</p>
 <li>
-</li>		<p data-renderer-start-pos="164">Некорректная работа функции копировать-вставить при заполнении данных прокси</p>
+</li>		<p>Некорректная работа функции копировать-вставить при заполнении данных прокси</p>
 <li>
-</li>		<p data-renderer-start-pos="164">Другие небольшие улучшения интерфейса</p>
+</li>		<p>Другие небольшие улучшения интерфейса</p>
 </li>
 </ul>
 
@@ -47,21 +42,19 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.13.1">СКАЧАТЬ</a>
 <!-- ## -->
-		<p data-renderer-start-pos="1">
-<strong data-renderer-mark="true">Новое:</strong>
-</p>
+		<p>
+<strong data-renderer-mark="true">Новое:</strong></p>
 <ul class="ak-ul" data-indent-level="1">
-<li>		<p data-renderer-start-pos="11">Улучшены элементы маскировки Canvas и WebGL для браузерных профилей Mimic</p>
+<li>		<p>Улучшены элементы маскировки Canvas и WebGL для браузерных профилей Mimic</p>
 <li>
-</li>		<p data-renderer-start-pos="88">Увеличена скорость переноса браузерных профилей в группы</p>
+</li>		<p>Увеличена скорость переноса браузерных профилей в группы</p>
 </li>
-</ul>		<p data-renderer-start-pos="148">
-<strong data-renderer-mark="true">Исправлено:</strong>
-</p>
+</ul>		<p>
+<strong data-renderer-mark="true">Исправлено:</strong></p>
 <ul class="ak-ul" data-indent-level="1">
-<li>		<p data-renderer-start-pos="164">В отдельных случаях сохраненные заметки появлялись только после перезапуска приложения</p>
+<li>		<p>В отдельных случаях сохраненные заметки появлялись только после перезапуска приложения</p>
 <li>
-</li>		<p data-renderer-start-pos="254">Многочисленные улучшения интерфейса и текста</p>
+</li>		<p>Многочисленные улучшения интерфейса и текста</p>
 </li>
 </ul>
 
@@ -71,11 +64,10 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.12.1">СКАЧАТЬ</a>
 <!-- ## -->
-		<p data-renderer-start-pos="19">
-<strong data-renderer-mark="true">Исправлено:</strong>
-</p>
+		<p>
+<strong data-renderer-mark="true">Исправлено:</strong></p>
 <ul class="ak-ul" data-indent-level="1">
-<li>		<p data-renderer-start-pos="34">На некоторых сайтах в браузере Stealthfox шрифты отображались некорректно</p>
+<li>		<p>На некоторых сайтах в браузере Stealthfox шрифты отображались некорректно</p>
 </li>
 </ul>
 
@@ -84,28 +76,25 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.12.0">СКАЧАТЬ</a>
 <!-- ## -->
-		<p data-renderer-start-pos="1">
-<strong data-renderer-mark="true">Новое:</strong>
-</p>
+		<p>
+<strong data-renderer-mark="true">Новое:</strong></p>
 <ul class="ak-ul" data-indent-level="1">
-<li>		<p data-renderer-start-pos="11">Ядро Mimic обновлено до 87 версии Chrome. Необходимо будет обновить отпечатки существующих браузерных профилей</p>
+<li>		<p>Ядро Mimic обновлено до 87 версии Chrome. Необходимо будет обновить отпечатки существующих браузерных профилей</p>
 <li>
-</li>		<p data-renderer-start-pos="125">Элементы маскировки шрифтов были улучшены</p>
+</li>		<p>Элементы маскировки шрифтов были улучшены</p>
 <li>
-</li>		<p data-renderer-start-pos="170">Элементы маскировки WebGL были улучшены</p>
+</li>		<p>Элементы маскировки WebGL были улучшены</p>
 <li>
-</li>		<p data-renderer-start-pos="213">Браузерные профили, запущенные на системе MacOS, теперь проходят тест <a class="sc-kDgGX dCAVBJ" title="http://pixelscan.net/" href="http://pixelscan.net/" data-renderer-mark="true">pixelscan.net</a>
+</li>		<p>Браузерные профили, запущенные на системе MacOS, теперь проходят тест <a class="sc-kDgGX dCAVBJ" title="http://pixelscan.net/" href="http://pixelscan.net/" data-renderer-mark="true">pixelscan.net</a>
 </p>
-</li>
-</ul>		<p data-renderer-start-pos="293">
-<strong data-renderer-mark="true">Исправлено:</strong>
-</p>
-<ul class="ak-ul" data-indent-level="1">
-<li>		<p data-renderer-start-pos="308">Некоторые сайты могли определить наличие автоматизации Selenium</p>
 </li>
 </ul>		<p>
-<strong data-renderer-mark="true">Примечания:</strong>
-</p>
+<strong data-renderer-mark="true">Исправлено:</strong></p>
+<ul class="ak-ul" data-indent-level="1">
+<li>		<p>Некоторые сайты могли определить наличие автоматизации Selenium</p>
+</li>
+</ul>		<p>
+<strong data-renderer-mark="true">Примечания:</strong></p>
 <ul>
 </li>Мы откатили изменения, связанные с Socks 5, из прошлой версии, из-за некорректной работы DNS.</li>
 </ul>
@@ -114,13 +103,12 @@
 <h2 id="multilogin-5111-unity-beta-2021-01-15" class="joli-heading">Что нового в Multilogin 5.11.1 Unity BETA (2021/01/15)</h2>
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.11.1">СКАЧАТЬ</a>
 <!-- ## -->
-		<p data-renderer-start-pos="68">
-<strong data-renderer-mark="true">Исправлено:</strong>
-</p>
+		<p>
+<strong data-renderer-mark="true">Исправлено:</strong></p>
 <ul class="ak-ul" data-indent-level="1">
-<li>		<p data-renderer-start-pos="83">Проблема, при которой участники команды не могли перемещать браузерные профили в группы</p>
+<li>		<p>Проблема, при которой участники команды не могли перемещать браузерные профили в группы</p>
 <li>
-</li>		<p data-renderer-start-pos="174">Проблема с некорректной работой некоторых прокси Socks 5</p>
+</li>		<p>Проблема с некорректной работой некоторых прокси Socks 5</p>
 </li>
 </ul>
 
@@ -129,19 +117,17 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.11">СКАЧАТЬ</a>
 <!-- ## -->
-		<p data-renderer-start-pos="1">
-<strong data-renderer-mark="true">Новое:</strong>
-</p>
+		<p>
+<strong data-renderer-mark="true">Новое:</strong></p>
 <ul class="ak-ul" data-indent-level="1">
-<li>		<p data-renderer-start-pos="11">Ядро Stealthfox обновлено до 82 версии Firefox. Необходимо будет обновить отпечатки существующих браузерных профилей</p>
+<li>		<p>Ядро Stealthfox обновлено до 82 версии Firefox. Необходимо будет обновить отпечатки существующих браузерных профилей</p>
 <li>
-</li>		<p data-renderer-start-pos="131">Улучшения интерфейса</p>
+</li>		<p>Улучшения интерфейса</p>
 </li>
-</ul>		<p data-renderer-start-pos="155">
-<strong data-renderer-mark="true">Исправлено:</strong>
-</p>
+</ul>		<p>
+<strong data-renderer-mark="true">Исправлено:</strong></p>
 <ul class="ak-ul" data-indent-level="1">
-<li>		<p data-renderer-start-pos="170">Проблема, при которой имена профилей и групп с нелатинскими символами (например, китайскими, русскими, арабскими) отображались неправильно</p>
+<li>		<p>Проблема, при которой имена профилей и групп с нелатинскими символами (например, китайскими, русскими, арабскими) отображались неправильно</p>
 </li>
 </ul>
 
@@ -150,11 +136,10 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.10">СКАЧАТЬ</a>
 <!-- ## -->
-		<p data-renderer-start-pos="122">
-<strong data-renderer-mark="true">Новое</strong>
-</p>
+		<p>
+<strong data-renderer-mark="true">Новое</strong></p>
 <ul class="ak-ul" data-indent-level="1">
-<li>		<p data-renderer-start-pos="131">Ядро Mimic обновлено до 86 версии Chrome. Необходимо будет обновить отпечатки существующих браузерных профилей.</p>
+<li>		<p>Ядро Mimic обновлено до 86 версии Chrome. Необходимо будет обновить отпечатки существующих браузерных профилей.</p>
 </li>
 </ul>
 
@@ -163,15 +148,13 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.9.1">СКАЧАТЬ</a>
 <!-- ## -->
-		<p data-renderer-start-pos="7">
-<strong data-renderer-mark="true">Новое:</strong>
-</p>
+		<p>
+<strong data-renderer-mark="true">Новое:</strong></p>
 <ul class="ak-ul" data-indent-level="1">
-<li>		<p data-renderer-start-pos="17">Уведомления пользователей о версии приложения в самом приложении</p>
+<li>		<p>Уведомления пользователей о версии приложения в самом приложении</p>
 </li>
 </ul>		<p>
-<strong data-renderer-mark="true">Примечания:</strong>
-</p>
+<strong data-renderer-mark="true">Примечания:</strong></p>
 <ul>
 </li>Уведомления об обновлении версии приложения будут отображаться, если доступна новая стабильная версия, или текущая версия перестанет поддерживаться.</li>
 </ul>
@@ -181,25 +164,22 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.9.0">СКАЧАТЬ</a>
 <!-- ## -->
-		<p data-renderer-start-pos="1">
-<strong data-renderer-mark="true">Новое:</strong>
-</p>
+		<p>
+<strong data-renderer-mark="true">Новое:</strong></p>
 <ul class="ak-ul" data-indent-level="1">
-<li>		<p data-renderer-start-pos="11">Добавлена возможность переключаться между аккаунтами пользователей Multilogin прямо из интерфейса приложения</p>
+<li>		<p>Добавлена возможность переключаться между аккаунтами пользователей Multilogin прямо из интерфейса приложения</p>
 </li>
-</ul>		<p data-renderer-start-pos="123">
-<strong data-renderer-mark="true">Исправлено:</strong>
-</p>
+</ul>		<p>
+<strong data-renderer-mark="true">Исправлено:</strong></p>
 <ul class="ak-ul" data-indent-level="1">
-<li>		<p data-renderer-start-pos="138">Содержание заметок для разных профилей могло случайным образом перепутаться, если одновременно было открыто много профилей</p>
+<li>		<p>Содержание заметок для разных профилей могло случайным образом перепутаться, если одновременно было открыто много профилей</p>
 <li>
-</li>		<p data-renderer-start-pos="264">При закрытии браузерного профиля через API или после завершения работы CookieRobot, данные браузерного профиля не сохранялись на серверах</p>
+</li>		<p>При закрытии браузерного профиля через API или после завершения работы CookieRobot, данные браузерного профиля не сохранялись на серверах</p>
 </li>
-</ul>		<p data-renderer-start-pos="405">
-<strong data-renderer-mark="true">Примечания:</strong>
-</p>
+</ul>		<p>
+<strong data-renderer-mark="true">Примечания:</strong></p>
 <ul class="ak-ul" data-indent-level="1">
-<li>		<p data-renderer-start-pos="420">Теперь можно открывать только одну заметку за раз</p>
+<li>		<p>Теперь можно открывать только одну заметку за раз</p>
 </li>
 </ul>
 
@@ -207,13 +187,12 @@
 <h2 id="multilogin-581-unity-stable-2020-10-07" class="joli-heading">Что нового в Multilogin 5.8.1 Unity STABLE (2020/10/07)</h2>
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.8.1">СКАЧАТЬ</a>
 <!-- ## -->
-		<p data-renderer-start-pos="1">
-<strong data-renderer-mark="true">Исправлено:</strong>
-</p>
+		<p>
+<strong data-renderer-mark="true">Исправлено:</strong></p>
 <ul>
-<li>		<p data-renderer-start-pos="17">Множество исправлений и улучшений направленных на повышение стабильности приложения</p>
+<li>		<p>Множество исправлений и улучшений направленных на повышение стабильности приложения</p>
 <li>
-</li>		<p data-renderer-start-pos="104">Исправлены ошибки в интерфейсе</p>
+</li>		<p>Исправлены ошибки в интерфейсе</p>
 </li>
 </ul>
 
@@ -222,22 +201,20 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.8.0">СКАЧАТЬ</a>
 <!-- ## -->
-		<p data-renderer-start-pos="1">
-<strong data-renderer-mark="true">Новое:</strong>
-</p>
+		<p>
+<strong data-renderer-mark="true">Новое:</strong></p>
 <ul>
-<li>		<p data-renderer-start-pos="11">Значительные улучшения компонентов маскировки отпечатков, которые не разглашаются</p>
+<li>		<p>Значительные улучшения компонентов маскировки отпечатков, которые не разглашаются</p>
 <li>
-</li>		<p data-renderer-start-pos="96">Браузерные профили запущенные на Windows теперь проходят тест&nbsp;<a class="sc-kafWEX erkets" title="http://pixelscan.net/" href="http://pixelscan.net/" data-renderer-mark="true">pixelscan.net</a>
+</li>		<p>Браузерные профили запущенные на Windows теперь проходят тест&nbsp;<a class="sc-kafWEX erkets" title="http://pixelscan.net/" href="http://pixelscan.net/" data-renderer-mark="true">pixelscan.net</a>
 </p>
 <li>
-</li>		<p data-renderer-start-pos="175">Различные исправления и дополнения для улучшения удобства работы</p>
+</li>		<p>Различные исправления и дополнения для улучшения удобства работы</p>
 </li>
-</ul>		<p data-renderer-start-pos="243">
-<strong data-renderer-mark="true">Примечания:</strong>
-</p>
+</ul>		<p>
+<strong data-renderer-mark="true">Примечания:</strong></p>
 <ul>
-<li>		<p data-renderer-start-pos="258">Мы работаем над улучшением отпечатков браузерных профилей на MacOS для того, чтобы они также проходили тест <a class="sc-kafWEX erkets" title="http://pixelscan.net/" href="http://pixelscan.net/" data-renderer-mark="true">pixelscan.net</a>
+<li>		<p>Мы работаем над улучшением отпечатков браузерных профилей на MacOS для того, чтобы они также проходили тест <a class="sc-kafWEX erkets" title="http://pixelscan.net/" href="http://pixelscan.net/" data-renderer-mark="true">pixelscan.net</a>
 </p>
 </li>
 </ul>
@@ -247,23 +224,21 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.7.1">СКАЧАТЬ</a>
 <!-- ## -->
-		<p data-renderer-start-pos="1">
-<strong data-renderer-mark="true">Новое:</strong>
-</p>
+		<p>
+<strong data-renderer-mark="true">Новое:</strong></p>
 <ul>
-<li>		<p data-renderer-start-pos="11">Защита от сканирования портов включена по умолчанию при создании всех новых браузерных профилей</p>
+<li>		<p>Защита от сканирования портов включена по умолчанию при создании всех новых браузерных профилей</p>
 <li>
-</li>		<p data-renderer-start-pos="110">После завершения редактирования браузерного профиля, пользователь возвращается в группу, из которой этот профиль был изменен.</p>
+</li>		<p>После завершения редактирования браузерного профиля, пользователь возвращается в группу, из которой этот профиль был изменен.</p>
 <li>
-</li>		<p data-renderer-start-pos="239">После создания или редактирования профиля, позиция прокрутки в списке браузерных профилей сохраняется.</p>
+</li>		<p>После создания или редактирования профиля, позиция прокрутки в списке браузерных профилей сохраняется.</p>
 <li>
-</li>		<p data-renderer-start-pos="110">Улучшения интерфейса</p>
+</li>		<p>Улучшения интерфейса</p>
 </li>
-</ul>		<p data-renderer-start-pos="134">
-<strong data-renderer-mark="true">Исправлено:</strong>
-</p>
+</ul>		<p>
+<strong data-renderer-mark="true">Исправлено:</strong></p>
 <ul>
-<li>		<p data-renderer-start-pos="149">Puppeteer не работал с браузерными профилями Mimic</p>
+<li>		<p>Puppeteer не работал с браузерными профилями Mimic</p>
 </li>
 </ul>
 
@@ -272,17 +247,16 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.7.0">СКАЧАТЬ</a>
 <!-- ## -->
-		<p data-renderer-start-pos="1">
-<strong data-renderer-mark="true">Новое:</strong>
-</p>
+		<p>
+<strong data-renderer-mark="true">Новое:</strong></p>
 <ul>
-<li>		<p data-renderer-start-pos="16">Ядро Stealthfox обновлено до 79 версии Firefox. Необходимо будет обновить отпечатки существующих браузерных профилей</p>
+<li>		<p>Ядро Stealthfox обновлено до 79 версии Firefox. Необходимо будет обновить отпечатки существующих браузерных профилей</p>
 <li>
-</li>		<p data-renderer-start-pos="136">Уменьшено количество нотификаций при запуске и закрытии браузерных профилей</p>
+</li>		<p>Уменьшено количество нотификаций при запуске и закрытии браузерных профилей</p>
 <li>
-</li>		<p data-renderer-start-pos="215">Участники команды более не могут переносить профили из группы с правами доступа “Запуск” в группу с правами доступа “Запуск, редактирование, создание”</p>
+</li>		<p>Участники команды более не могут переносить профили из группы с правами доступа “Запуск” в группу с правами доступа “Запуск, редактирование, создание”</p>
 <li>
-</li>		<p data-renderer-start-pos="369">Улучшена производительность приложения для пользователей с 1,000+ браузерных профилей</p>
+</li>		<p>Улучшена производительность приложения для пользователей с 1,000+ браузерных профилей</p>
 </li>
 </ul>
 
@@ -291,11 +265,9 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.6.1">СКАЧАТЬ</a>
 <!-- ## -->
-		<p data-renderer-start-pos="29">
-<strong>Новое</strong>
-</p>
+		<p><strong>Новое</strong></p>
 <ul>
-<li>		<p data-renderer-start-pos="624">Ядро Mimic обновлено до 84 версии Chrome. Необходимо будет обновить отпечатки существующих браузерных профилей.</p>
+<li>		<p>Ядро Mimic обновлено до 84 версии Chrome. Необходимо будет обновить отпечатки существующих браузерных профилей.</p>
 </li>
 </ul>
 
@@ -304,29 +276,26 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.5.4">СКАЧАТЬ</a>
 <!-- ## -->
-		<p data-renderer-start-pos="8">
-<strong data-renderer-mark="true">Новое:</strong>
-</p>
+		<p>
+<strong data-renderer-mark="true">Новое:</strong></p>
 <ul>
-<li>		<p data-renderer-start-pos="18">Функция защиты от сканирования портов</p>
+<li>		<p>Функция защиты от сканирования портов</p>
 <li>
-</li>		<p data-renderer-start-pos="59">Функция сохранения Service Worker кэша в настройках хранилищ (отключено по умолчанию для всех новых профилей)</p>
+</li>		<p>Функция сохранения Service Worker кэша в настройках хранилищ (отключено по умолчанию для всех новых профилей)</p>
 </li>
-</ul>		<p data-renderer-start-pos="172">
-<strong data-renderer-mark="true">Исправлено:</strong>
-</p>
+</ul>		<p>
+<strong data-renderer-mark="true">Исправлено:</strong></p>
 <ul>
-<li>		<p data-renderer-start-pos="187">Настройки AudioContex сбрасывались на ‘Выключить’ после редактирования профиля</p>
+<li>		<p>Настройки AudioContex сбрасывались на ‘Выключить’ после редактирования профиля</p>
 <li>
-</li>		<p data-renderer-start-pos="269">Участники команды не могли переместить профили в группы, к которым отсутствовали права доступа</p>
+</li>		<p>Участники команды не могли переместить профили в группы, к которым отсутствовали права доступа</p>
 <li>
-</li>		<p data-renderer-start-pos="367">Маскировка WebRTC публичного IP-адреса не работали при использовании IPv6 прокси</p>
+</li>		<p>Маскировка WebRTC публичного IP-адреса не работали при использовании IPv6 прокси</p>
 </li>
-</ul>		<p data-renderer-start-pos="451">
-<strong data-renderer-mark="true">Примечания:</strong>
-</p>
+</ul>		<p>
+<strong data-renderer-mark="true">Примечания:</strong></p>
 <ul>
-<li>		<p data-renderer-start-pos="466">Проблема с увеличением размера браузерных профилей может быть решена выключением сохранения Service Worker кэша в Настройках хранилищ.</p>
+<li>		<p>Проблема с увеличением размера браузерных профилей может быть решена выключением сохранения Service Worker кэша в Настройках хранилищ.</p>
 </li>
 </ul>
 <div class="heading-anchor-wrapper-old">
@@ -341,23 +310,21 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.5.3">СКАЧАТЬ</a>
 <!-- ## -->
-		<p data-renderer-start-pos="1">
-<strong data-renderer-mark="true">Новое:</strong>
-</p>
+		<p>
+<strong data-renderer-mark="true">Новое:</strong></p>
 <ul>
-<li>		<p data-renderer-start-pos="11">Добавлен механиз маскорвки Puppeteer</p>
+<li>		<p>Добавлен механиз маскорвки Puppeteer</p>
 <li>
-</li>		<p data-renderer-start-pos="55">Добавлена функция поиска при перемещении профиля в группу</p>
+</li>		<p>Добавлена функция поиска при перемещении профиля в группу</p>
 </li>
-</ul>		<p data-renderer-start-pos="126">
-<strong data-renderer-mark="true">Исправлено:</strong>
-</p>
+</ul>		<p>
+<strong data-renderer-mark="true">Исправлено:</strong></p>
 <ul>
-<li>		<p data-renderer-start-pos="141">WebRTC публичный IP-адрес отображал ‘N/A’ в браузере Mimic при использовании SOCKS прокси</p>
+<li>		<p>WebRTC публичный IP-адрес отображал ‘N/A’ в браузере Mimic при использовании SOCKS прокси</p>
 <li>
-</li>		<p data-renderer-start-pos="234">Параметр defaultMode не работал с эндпойнтами Create и Update локального API</p>
+</li>		<p>Параметр defaultMode не работал с эндпойнтами Create и Update локального API</p>
 <li>
-</li>		<p data-renderer-start-pos="314">Улучшения интерфейса и текста</p>
+</li>		<p>Улучшения интерфейса и текста</p>
 </li>
 </ul>
 
@@ -366,9 +333,7 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.5.2">СКАЧАТЬ</a>
 <!-- ## -->
-		<p>
-<strong>Исправлено:</strong>
-</p>
+		<p><strong>Исправлено:</strong></p>
 <ul>
 </li>Cookie Import не работал корректно</li>
 </ul>
@@ -378,19 +343,17 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.5.1">СКАЧАТЬ</a>
 <!-- ## -->
-		<p data-renderer-start-pos="1">
-<strong data-renderer-mark="true">Исправлено:</strong>
-</p>
+		<p>
+<strong data-renderer-mark="true">Исправлено:</strong></p>
 <ul>
-<li>		<p data-renderer-start-pos="16">На некоторых Windows системах, запуск Stealthfox профиля происходил без прокси и подмены отпечатков</p>
+<li>		<p>На некоторых Windows системах, запуск Stealthfox профиля происходил без прокси и подмены отпечатков</p>
 <li>
-</li>		<p data-renderer-start-pos="119">При использовании функции Start URL, вкладка стартовой страницы добавлялась при каждом запуске браузерного профиля</p>
+</li>		<p>При использовании функции Start URL, вкладка стартовой страницы добавлялась при каждом запуске браузерного профиля</p>
 </li>
-</ul>		<p data-renderer-start-pos="237">
-<strong data-renderer-mark="true">Примечания</strong>
-</p>
+</ul>		<p>
+<strong data-renderer-mark="true">Примечания</strong></p>
 <ul>
-<li>		<p data-renderer-start-pos="251">Фикс для Stealthfox не будет работать, если в имени папки пользователя Windows есть нелатинские символы (русский, китайский, арабский и т.д.).</p>
+<li>		<p>Фикс для Stealthfox не будет работать, если в имени папки пользователя Windows есть нелатинские символы (русский, китайский, арабский и т.д.).</p>
 </li>
 </ul>
 
@@ -399,19 +362,17 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.5">СКАЧАТЬ</a>
 <!-- ## -->
-		<p data-renderer-start-pos="37">
-<strong data-renderer-mark="true">Новое:</strong>
-</p>
+		<p>
+<strong data-renderer-mark="true">Новое:</strong></p>
 <ul>
-<li>		<p data-renderer-start-pos="47">Перенос браузерных профилей на аккаунты других пользователей поштучно, либо массово (доступно подписками Team, Scale и Custom)</p>
+<li>		<p>Перенос браузерных профилей на аккаунты других пользователей поштучно, либо массово (доступно подписками Team, Scale и Custom)</p>
 </li>
-</ul>		<p data-renderer-start-pos="134">
-<strong data-renderer-mark="true">Исправлено:</strong>
-</p>
+</ul>		<p>
+<strong data-renderer-mark="true">Исправлено:</strong></p>
 <ul>
-<li>		<p data-renderer-start-pos="149">Ошибки в интерфейсе</p>
+<li>		<p>Ошибки в интерфейсе</p>
 <li>
-</li>		<p data-renderer-start-pos="172">Проблема с обновлением групп профилей при использовании API эндпоинта Update</p>
+</li>		<p>Проблема с обновлением групп профилей при использовании API эндпоинта Update</p>
 </li>
 </ul>
 
@@ -419,57 +380,51 @@
 <h2 id="multilogin-540-unity-beta-2020-05-28" class="joli-heading">Что нового в Multilogin 5.4.0 Unity BETA (2020/05/28)</h2>
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.4.0">СКАЧАТЬ</a>
 <!-- ## -->
-		<p data-renderer-start-pos="29">
-<strong>Новое:</strong>
-</p>
+		<p><strong>Новое:</strong></p>
 <ul>
-<li>		<p data-renderer-start-pos="36">Добавлен ряд эндпоинтов локального API, которые позволяют:</p>
+<li>		<p>Добавлен ряд эндпоинтов локального API, которые позволяют:</p>
 <ul>
-<li>		<p data-renderer-start-pos="100">создавать новый браузерный профиль</p>
+<li>		<p>создавать новый браузерный профиль</p>
 <li>
-</li>		<p data-renderer-start-pos="100">редактировать параметры действующего браузерного профиля</p>
+</li>		<p>редактировать параметры действующего браузерного профиля</p>
 <li>
-</li>		<p data-renderer-start-pos="100">удалять браузерный профиль</p>
+</li>		<p>удалять браузерный профиль</p>
 <li>
-</li>		<p data-renderer-start-pos="100">обновлять браузерный профиль</p>
+</li>		<p>обновлять браузерный профиль</p>
 <li>
-</li>		<p data-renderer-start-pos="100">получать список всех имеющихся профилей (из списка раздела 5.x)</p>
+</li>		<p>получать список всех имеющихся профилей (из списка раздела 5.x)</p>
 <li>
-</li>		<p data-renderer-start-pos="100">мигрировать профили из списка раздела 4.х в список раздела 5.х</p>
+</li>		<p>мигрировать профили из списка раздела 4.х в список раздела 5.х</p>
 </li>
 </ul>
 </li>
 </ul>
 <ul>
-<li>		<p data-renderer-start-pos="411">Изменено расположение кнопок переключения v4 и v5 в интерфейсе пользователя</p>
+<li>		<p>Изменено расположение кнопок переключения v4 и v5 в интерфейсе пользователя</p>
 <li>
-</li>		<p data-renderer-start-pos="490">Добавлена возможность переключения между списками Локальных и Облачных профилей (детальная информация в примечаниях)</p>
+</li>		<p>Добавлена возможность переключения между списками Локальных и Облачных профилей (детальная информация в примечаниях)</p>
 </li>
-</ul>		<p data-renderer-start-pos="612">
-<strong>Исправлено:</strong>
-</p>
+</ul>		<p><strong>Исправлено:</strong></p>
 <ul>
-<li>		<p data-renderer-start-pos="624">Обнаружение некоторыми веб-сайтами автоматизации на основе Selenium</p>
+<li>		<p>Обнаружение некоторыми веб-сайтами автоматизации на основе Selenium</p>
 <li>
-</li>		<p data-renderer-start-pos="696">Проблема с добавлением множественных предопределенных значений DNS</p>
+</li>		<p>Проблема с добавлением множественных предопределенных значений DNS</p>
 <li>
-</li>		<p data-renderer-start-pos="766">Некорректная работа последовательного подключения к прокси разовых профилей</p>
+</li>		<p>Некорректная работа последовательного подключения к прокси разовых профилей</p>
 <li>
-</li>		<p data-renderer-start-pos="845">Проблема при которой разовый профиль игнорировал языковые настройки, указанные в&nbsp; My Account → Preferences (Мой аккаунт → Настройки)</p>
+</li>		<p>Проблема при которой разовый профиль игнорировал языковые настройки, указанные в&nbsp; My Account → Preferences (Мой аккаунт → Настройки)</p>
 <li>
-</li>		<p data-renderer-start-pos="981">Разовый профиль не мог подключиться к SOCKS4 прокси</p>
+</li>		<p>Разовый профиль не мог подключиться к SOCKS4 прокси</p>
 <li>
-</li>		<p data-renderer-start-pos="1036">Открытый браузерный профиль мог быть удален</p>
+</li>		<p>Открытый браузерный профиль мог быть удален</p>
 <li>
-</li>		<p data-renderer-start-pos="1086">Различные ошибки в интерфейсе и в валидации полей текста</p>
+</li>		<p>Различные ошибки в интерфейсе и в валидации полей текста</p>
 </li>
-</ul>		<p data-renderer-start-pos="1148">
-<strong>Примечания</strong>
-</p>
+</ul>		<p><strong>Примечания</strong></p>
 <ul>
-<li>		<p data-renderer-start-pos="1161">В отличие от прежних основных версий приложения Multilogin, где API основывался на архитектуре REST, в версии 5.х предложен функционал Local API. Это означает, что в версии 5.х для успешного осуществления запроса к кэндпоинту, запрос должен исходить с той же машины, на которой запущено само приложение Multilogin.</p>
+<li>		<p>В отличие от прежних основных версий приложения Multilogin, где API основывался на архитектуре REST, в версии 5.х предложен функционал Local API. Это означает, что в версии 5.х для успешного осуществления запроса к кэндпоинту, запрос должен исходить с той же машины, на которой запущено само приложение Multilogin.</p>
 <li>
-</li>		<p data-renderer-start-pos="1479">Текущая версия являет собой подготовительную сборку, предваряющую внедрение Локальных браузерных профилей. Сессионные данные (cookie-файлы, вкладки и т.п.) таких профилей будут сохраняться в памяти непосредственно на устройстве пользователя.</p>
+</li>		<p>Текущая версия являет собой подготовительную сборку, предваряющую внедрение Локальных браузерных профилей. Сессионные данные (cookie-файлы, вкладки и т.п.) таких профилей будут сохраняться в памяти непосредственно на устройстве пользователя.</p>
 </li>
 </ul>
 
@@ -478,9 +433,7 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.3.1">СКАЧАТЬ</a>
 <!-- ## -->
-		<p>
-<strong>Исправлено:</strong>
-</p>
+		<p><strong>Исправлено:</strong></p>
 <ul>
 </li>Проблемы с запуском браузерных профилей в некоторых системах Windows<li>
 </li>Ошибки при создании браузерных профилей при добавлении определенных значений Timezone в настройках профиля<li>
@@ -492,15 +445,11 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.3">СКАЧАТЬ</a>
 <!-- ## -->
-		<p>
-<strong>Новое:</strong>
-</p>
+		<p><strong>Новое:</strong></p>
 <ul>
 </li>Ядро браузера StealthFox обновлено до версии Firefox 75. Необходимо будет обновить отпечатки существующих браузерных профилей<li>
 </li>Маскировка разрешения экрана в Client Hints</li>
-</ul>		<p>
-<strong>Исправлено: </strong>
-</p>
+</ul>		<p><strong>Исправлено: </strong></p>
 <ul>
 </li>Проблема с импортом определенных Cookie-файлов<li>
 </li>Падение StealthFox браузера на определенных сайтах<li>
@@ -508,9 +457,7 @@
 </li>Данные сессии браузера Mimic (куки-файлы, вкладки и так далее) не сохранялись при закрытии последней вкладки<li>
 </li>Окно мобильного браузерного профиля можно было поменять вручную в самом браузере<li>
 </li>Ошибки в интерфейсе и в валидации полей текста</li>
-</ul>		<p>
-<strong>Примечания: </strong>
-</p>
+</ul>		<p><strong>Примечания: </strong></p>
 <ul>
 </li>Мы полностью переработали функцию Cookie Import, сделав более успешным импорт многих Cookie-файлов<li>
 </li>API нестабильно работают на версии 5.х. Мы рекомендуем оставаться на стабильных версиях всем пользователям, которые применяют инструменты автоматизации</li>
@@ -521,14 +468,10 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.2">СКАЧАТЬ</a>
 <!-- ## -->
-		<p>
-<strong>Новое:</strong>
-</p>
+		<p><strong>Новое:</strong></p>
 <ul>
 </li>Ядро Mimic обновлено до 80 версии Chrome. Необходимо будет обновить отпечатки существующих браузерных профилей</li>
-</ul>		<p>
-<strong>Примечания:</strong>
-</p>
+</ul>		<p><strong>Примечания:</strong></p>
 <ul>
 </li>Прекращение поддержки Windows 7<li>
 </li>Прекращение поддержки x86 (32 битных) операционных систем<li>
@@ -540,23 +483,17 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.1.2">СКАЧАТЬ</a>
 <!-- ## -->
-		<p>
-<strong>Новое:</strong>
-</p>
+		<p><strong>Новое:</strong></p>
 <ul>
 </li>Пользователи подписок Team, Scale и Custom могут делиться группой с участниками команды во время создания группы<li>
 </li>Массовое обновление профилей до версии 5.х<li>
 </li>Участники команды могут видеть email адрес главного аккаунта в разделе “Мой аккаунт”<li>
 </li>Заметки в браузерных профилях лимитированы до 30,000 символов</li>
-</ul>		<p>
-<strong>Исправлено:</strong>
-</p>
+</ul>		<p><strong>Исправлено:</strong></p>
 <ul>
 </li>Предопределение DNS не работало с прямым подключением (без использования прокси)<li>
 </li>Проблема при которой обновленные до версии 5.х профили не отображались</li>
-</ul>		<p>
-<strong>Примечания:</strong>
-</p>
+</ul>		<p><strong>Примечания:</strong></p>
 <ul>
 </li>Прекращение поддержки Windows 7<li>
 </li>Прекращение поддержи x86 (32 битных) операционных систем<li>
@@ -568,20 +505,14 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.1.1">СКАЧАТЬ</a>
 <!-- ## -->
-		<p>
-<strong>Новое:</strong>
-</p>
+		<p><strong>Новое:</strong></p>
 <ul>
 </li>Полностью изменен интерфейс меню навигации<li>
 </li>Изменения меню ‘Мой аккаунт’</li>
-</ul>		<p>
-<strong>Исправлено:</strong>
-</p>
+</ul>		<p><strong>Исправлено:</strong></p>
 <ul>
 </li>Проблема при которой кнопка Стоп работала не корректно при потере соединения с интернетом</li>
-</ul>		<p>
-<strong>Примечания:</strong>
-</p>
+</ul>		<p><strong>Примечания:</strong></p>
 <ul>
 </li>Прекращение поддержки Windows 7<li>
 </li>Прекращение поддержи x86 (32 битных) операционных систем<li>
@@ -593,19 +524,13 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.1">СКАЧАТЬ</a>
 <!-- ## -->
-		<p>
-<strong>Новое:</strong>
-</p>
+		<p><strong>Новое:</strong></p>
 <ul>
 </li>Приложение теперь доступно на русском, китайском и английском языках</li>
-</ul>		<p>
-<strong>Исправлено:</strong>
-</p>
+</ul>		<p><strong>Исправлено:</strong></p>
 <ul>
 </li>Проблема с импортом большых cookie-файлов</li>
-</ul>		<p>
-<strong>Примечания:</strong>
-</p>
+</ul>		<p><strong>Примечания:</strong></p>
 <ul>
 </li>Прекращение поддержки Windows 7<li>
 </li>Прекращение поддержи x86 (32 битных) операционных систем<li>
@@ -617,23 +542,17 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.0.6">СКАЧАТЬ</a>
 <!-- ## -->
-		<p>
-<strong>Новое:</strong>
-</p>
+		<p><strong>Новое:</strong></p>
 <ul>
 </li>Кнопка delete была удалена из интерфейса массовых операций для членов команды</li>
-</ul>		<p>
-<strong>Исправлено:</strong>
-</p>
+</ul>		<p><strong>Исправлено:</strong></p>
 <ul>
 </li>Ошибки валидации не отображались в интерфейсе<li>
 </li>Приглашения не приходили новым членам команды<li>
 </li>Проблема с удалением профилей у новых пользователей<li>
 </li>Проблемы с active session lock<li>
 </li>Проблемы с сохранением Local storage data в Stealthfox</li>
-</ul>		<p>
-<strong>Примечания:</strong>
-</p>
+</ul>		<p><strong>Примечания:</strong></p>
 <ul>
 </li>Прекращение поддержки Windows 7<li>
 </li>Прекращение поддержи x86 (32 битных) операционных систем<li>
@@ -645,17 +564,13 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.0.5">СКАЧАТЬ</a>
 <!-- ## -->
-		<p>
-<strong>Исправлено:</strong>
-</p>
+		<p><strong>Исправлено:</strong></p>
 <ul>
 <li class="li1">Потеря cookie-файлов во время нестабильного соединения</li>
 <li class="li1">Повреждение конфигураций прокси при миграции профилей с версии 4.5.3 на 5.x<li>
 </li>Опция About Mimic в меню браузера не отображала страницу поддержки<li>
 </li>Другие исправления</li>
-</ul>		<p>
-<strong>Примечания:</strong>
-</p>
+</ul>		<p><strong>Примечания:</strong></p>
 <ul>
 </li>API нестабильно работают на данной версии. Мы рекомендуем оставаться на стабильных версиях всем пользователям, которые применяют инструменты автоматизации<li>
 </li>IP teleport плагин был удалён из списка плагинов</li>
@@ -666,16 +581,12 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.0.4">СКАЧАТЬ</a>
 <!-- ## -->
-		<p>
-<strong>Исправлено:</strong>
-</p>
+		<p><strong>Исправлено:</strong></p>
 <ul>
 </li>Некорректная работа WebGL2 в браузере Mimic<li>
 </li>Зависание интерфейса при потере связи с интернетом<li>
 </li>Улучшения интерфейса</li>
-</ul>		<p>
-<strong>Примечания:</strong>
-</p>
+</ul>		<p><strong>Примечания:</strong></p>
 <ul>
 </li>API нестабильно работают на данной версии. Мы рекомендуем оставаться на стабильных версиях всем пользователям, которые применяют инструменты автоматизации</li>
 </ul>
@@ -685,15 +596,11 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.0.3">СКАЧАТЬ</a>
 <!-- ## -->
-		<p>
-<strong>Новое:</strong>
-</p>
+		<p><strong>Новое:</strong></p>
 <ul>
 </li>Улучшенный компонент маскировки WebGL<li>
 </li>Улучшенный компонент маскировки шрифтов для мобильных профилей</li>
-</ul>		<p>
-<strong>Исправлено:</strong>
-</p>
+</ul>		<p><strong>Исправлено:</strong></p>
 <ul>
 </li>Проблема с сохранением вкладок в браузере Stealthfox на macOS если профиль был закрыт нажатием кнопки ‘X’<li>
 </li>Не корректная работа Cookie Import в браузере Stealthfox<li>
@@ -704,9 +611,7 @@
 </li>Нельзя было редактировать некоторые профили после обновления до версии 5.x<li>
 </li>Некоторые профили с прокси не открывались после обновления до версии 5.x<li>
 </li>Улучшения интерфейса</li>
-</ul>		<p>
-<strong>Примечания:</strong>
-</p>
+</ul>		<p><strong>Примечания:</strong></p>
 <ul>
 </li>API нестабильно работают на данной версии. Мы рекомендуем оставаться на стабильных версиях всем пользователям, которые применяют инструменты автоматизации</li>
 </ul>
@@ -716,9 +621,7 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=5.0.1">СКАЧАТЬ</a>
 <!-- ## -->
-		<p>
-<strong>Новое:</strong>
-</p>
+		<p><strong>Новое:</strong></p>
 <ul>
 </li>Teamwork 2.0<ul>
 </li>Шэринг браузерных профилей группами<li>
@@ -730,9 +633,7 @@
 </ul>
 <li>
 </li>Обновления ядра браузера Stealthfox до версии 70 Firefox</li>
-</ul>		<p>
-<strong>Примечания:</strong>
-</p>
+</ul>		<p><strong>Примечания:</strong></p>
 <ul>
 </li>API нестабильно работают на данной версии. Мы рекомендуем оставаться на стабильных версиях всем пользователям, которые применяют инструменты автоматизации<li>
 </li>Для работы с браузерными профилями созданными на предыдущих версиях в Multilogin 5.0, пользователям необходимо будет мигрировать такие профили<li>
@@ -744,21 +645,15 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=4.5.3">СКАЧАТЬ</a>
 <!-- ## -->
-		<p>
-<strong>Новое:</strong>
-</p>
+		<p><strong>Новое:</strong></p>
 <ul>
 </li>Обновление компонента WebRTC которое точнее отражает поведение реального браузера</li>
-</ul>		<p>
-<strong>Исправлено:</strong>
-</p>
+</ul>		<p><strong>Исправлено:</strong></p>
 <ul>
 </li>Локальные IP не маскировались при выборе режима “Real” для WebRTC<li>
 </li>Проблема при которой профили сильно увеличивались в размере после пары запусков<li>
 </li>Проблема с работой Cookie Import</li>
-</ul>		<p>
-<strong>Примечания:</strong>
-</p>
+</ul>		<p><strong>Примечания:</strong></p>
 <ul>
 </li>32-битные Windows системы больше не поддерживаются</li>
 </ul>
@@ -768,9 +663,7 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=4.5.2">СКАЧАТЬ</a>
 <!-- ## -->
-		<p>
-<strong>Новое:</strong>
-</p>
+		<p><strong>Новое:</strong></p>
 <ul>
 </li>Необходимые изменения для релиза версии 5.0<li>
 </li>В мобильные профили вернулась кнопка “Rotate” так как была найдена и исправлена причина нестабильной работы</li>
@@ -781,9 +674,7 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=4.5.1">СКАЧАТЬ</a>
 <!-- ## -->
-		<p>
-<strong>Новое:</strong>
-</p>
+		<p><strong>Новое:</strong></p>
 <ul>
 </li>Оптимизация запуска браузерного профиля<li>
 </li>Новые индикаторы статуса профиля:<ul>
@@ -793,9 +684,7 @@
 </ul>
 <li>
 </li>Убрали кнопку “Rotate” для мобильных профилей из-за проблем с браузерными профилями</li>
-</ul>		<p>
-<strong>Исправлено:</strong>
-</p>
+</ul>		<p><strong>Исправлено:</strong></p>
 <ul>
 </li>Кнопка Обновить / F5 не работает для мобильных устройств<li>
 </li>Существующие профили браузера не отображались в списке после нажатия кнопки «Home»<li>
@@ -807,9 +696,7 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=4.4.4">СКАЧАТЬ</a>
 <!-- ## -->
-		<p>
-<strong>Исправлено:</strong>
-</p>
+		<p><strong>Исправлено:</strong></p>
 <ul>
 </li>Мобильные профили не работали корректно</li>
 </ul>
@@ -819,22 +706,16 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=4.5">СКАЧАТЬ</a>
 <!-- ## -->
-		<p>
-<strong>Новое:</strong>
-</p>
+		<p><strong>Новое:</strong></p>
 <ul>
 </li>Ядро Mimic обновлено до 77 версии Chrome. Необходимо будет обновить отпечатки существующий браузерных профилей<li>
 </li>Оптимизация функции Update для более точной эмуляции обновления браузера<li>
 </li>Обновления в пользовательском интерфейсе</li>
-</ul>		<p>
-<strong>Исправлено:</strong>
-</p>
+</ul>		<p><strong>Исправлено:</strong></p>
 <ul>
 </li>Проблема с авторизацией&nbsp;если пароль содержит символ “£”<li>
 </li>Проблема с сохранением списка прокси в Quick browser profile если прокси содержит имена доменов</li>
-</ul>		<p>
-<strong>Примечания:</strong>
-</p>
+</ul>		<p><strong>Примечания:</strong></p>
 <ul>
 </li>Всем пользователям использующим REST API эндпойнт Create, необходимо добавить параметр “mlaVersion” в свой запрос, указав версию Multilogin</li>
 </ul>
@@ -844,9 +725,7 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=4.4.3">СКАЧАТЬ</a>
 <!-- ## -->
-		<p>
-<strong>Новое:</strong>
-</p>
+		<p><strong>Новое:</strong></p>
 <ul>
 </li>Временно отключена возможность&nbsp;бесплатно использовать приложение во время пробного периода для снижения нагрузки на сервер</li>
 </ul>
@@ -856,9 +735,7 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=4.4.2">СКАЧАТЬ</a>
 <!-- ## -->
-		<p>
-<strong>Фиксы:</strong>
-</p>
+		<p><strong>Фиксы:</strong></p>
 <ul>
 </li>Ошибка “Initialization problem detected”, которая стала чаще появляться после обновления серверной части 2019/09/19</li>
 </ul>
@@ -868,16 +745,12 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=4.4.1">СКАЧАТЬ</a>
 <!-- ## -->
-		<p>
-<strong>Новое:</strong>
-</p>
+		<p><strong>Новое:</strong></p>
 <ul>
 </li>Метаданные service worker теперь сохраняются в браузерах Mimic и Stealthfox<li>
 </li>Опция Mobile browser добавлена в Quick browser profile<li>
 </li>Функционал самоподписанных сертификатов полностью реализован в браузерах Mimic и Stealthfox</li>
-</ul>		<p>
-<strong>Фиксы:</strong>
-</p>
+</ul>		<p><strong>Фиксы:</strong></p>
 <ul>
 </li>Проблема с импортом cookie в Mobile browser profile<li>
 </li>Проблема с кнопками Transfer и Revoke access<li>
@@ -889,23 +762,17 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=4.4">СКАЧАТЬ</a>
 <!-- ## -->
-		<p>
-<strong>Новое:</strong>
-</p>
+		<p><strong>Новое:</strong></p>
 <ul>
 </li>Экспериментальная функция: Мобильные браузерные профили<li>
 </li>Значительные обновления оболочки интерфейса<li>
 </li>Обновления в пользовательском интерфейсе<li>
 </li>Параметр mlaVersion для REST API; указывает в какой версии создаётся новый браузерный профиль</li>
-</ul>		<p>
-<strong>Фиксы:</strong>
-</p>
+</ul>		<p><strong>Фиксы:</strong></p>
 <ul>
 </li>Проблема с компоновщиком браузерных отпечатков, когда в “Preferences” выбраны малые значения расширения экрана<li>
 </li>Проблема с компоновщиком браузерных отпечатков при установке языка в глобальных настройках профиля</li>
-</ul>		<p>
-<strong>Примечания:</strong>
-</p>
+</ul>		<p><strong>Примечания:</strong></p>
 <ul>
 </li>Создать мобильный браузерный профиль возможно только при выключенном режиме Strict mode<li>
 </li>Из-за масштабных обновлений, возможны перебои в работе пользовательского интерфейса. Если у вас возникнут проблемы, пожалуйста, сообщите представителям нашей тех. поддержки</li>
@@ -915,14 +782,10 @@
 <h2 id="multilogin-432-fire-stable-2019-08-07" class="joli-heading">Что нового в Multilogin 4.3.2 Fire STABLE (2019/08/07)</h2>
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=4.3.2">СКАЧАТЬ</a>
 <!-- ## -->
-		<p>
-<strong>Новое:</strong>
-</p>
+		<p><strong>Новое:</strong></p>
 <ul>
 </li>Прокси чекер будет игнорировать самоподписанный SSL сертификат прокси и позволит запускать такие профили (исправляет некоторые проблемы с Luminati прокси)</li>
-</ul>		<p>
-<strong>Исправлено:</strong>
-</p>
+</ul>		<p><strong>Исправлено:</strong></p>
 <ul>
 </li>Скорректирована маскировка Canvas и WebGL Image в браузере Stealthfox<li>
 </li>Проблема с сохранением паролей в браузере Mimic<li>
@@ -935,9 +798,7 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=4.3.1">СКАЧАТЬ</a>
 <!-- ## -->
-		<p>
-<strong>Новое:</strong>
-</p>
+		<p><strong>Новое:</strong></p>
 <ul>
 </li>Обновление REST API эндпойнта для редактирования настроек профиля браузера<li>
 </li>Параметр session lock для API эндпойнтов Create и Update<li>
@@ -950,9 +811,7 @@
 </li>Изменения интерфейса Quick Browser Profile<li>
 </li>Изменения интерфейса Proxy<li>
 </li>Возможность включить или отключить чат поддержки в интерфейсе приложения (чат поддержки в настоящее время доступен в плане Scale в качестве экспериментальной функции)</li>
-</ul>		<p>
-<strong>Исправлено:</strong>
-</p>
+</ul>		<p><strong>Исправлено:</strong></p>
 <ul>
 </li>Маскировка WebGL metadata отключена по умолчанию при создании профиля через REST API<li>
 </li>Не работает прокси в Quick Browser Profile<li>
@@ -962,9 +821,7 @@
 </li>Использования Selenium может быть обнаружено в Stealthfox<li>
 </li>Невозможность обновить профиль браузера для пользователей, которые не являются владельцами профилей<li>
 </li>Ошибка “Gah. Your tab just crashed.” На нескольких сайтах в Stealthfox</li>
-</ul>		<p>
-<strong>Примечания:</strong>
-</p>
+</ul>		<p><strong>Примечания:</strong></p>
 <ul>
 </li>Ошибка при которой CookieRobot не сохраняет cookie файлы не была устранена в этом релизе<li>
 </li>Проблема с сохранением паролей в браузере Mimic будет исправлена в следующем релизе</li>
@@ -975,16 +832,12 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=4.3">СКАЧАТЬ</a>
 <!-- ## -->
-		<p>
-<strong>Новое:</strong>
-</p>
+		<p><strong>Новое:</strong></p>
 <ul>
 </li>Ядро Mimic обновлено до Chromium версии 73<li>
 </li>Улучшенный алгоритм маскировки шрифтов<li>
 </li>Улучшенный алгоритм маскировки WebGL</li>
-</ul>		<p>
-<strong>Исправлено:</strong>
-</p>
+</ul>		<p><strong>Исправлено:</strong></p>
 <ul>
 </li>Подвисание веб-страниц в Mimic<li>
 </li>CookieRobot не запускается в версии 4.2<li>
@@ -1002,16 +855,12 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=4.2">СКАЧАТЬ</a>
 <!-- ## -->
-		<p>
-<strong>Новое:</strong>
-</p>
+		<p><strong>Новое:</strong></p>
 <ul>
 </li>Ядро Stealthfox обновлено до Firefox версии 66<li>
 </li>Cookie Import загрузка из файла<li>
 </li>Эксперементальная функция: Quick browser profile</li>
-</ul>		<p>
-<strong>Исправлено:</strong>
-</p>
+</ul>		<p><strong>Исправлено:</strong></p>
 <ul>
 </li>Ошибка при которой не загружаются некоторые сайты в браузере Stealthfox</li>
 </ul>
@@ -1021,14 +870,10 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=4.1.2">СКАЧАТЬ</a>
 <!-- ## -->
-		<p>
-<strong>Новое:</strong>
-</p>
+		<p><strong>Новое:</strong></p>
 <ul>
 </li>Интерфейс для просмотра изменений в параметрах&nbsp;WebGL Metadata</li>
-</ul>		<p>
-<strong>Исправлено:</strong>
-</p>
+</ul>		<p><strong>Исправлено:</strong></p>
 <ul>
 </li>Проблема CookieRobot с застреванием на некоторых сайтах<li>
 </li>Функция Bring to front<li>
@@ -1042,25 +887,19 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=4.1">СКАЧАТЬ</a>
 <!-- ## -->
-		<p>
-<strong>Новое:</strong>
-</p>
+		<p><strong>Новое:</strong></p>
 <ul>
 </li>Экспериментальный режим “Strict mode” (доступен в глобальных настройках профиля)<li>
 </li>Улучшение интерфейса заметок браузерного профиля<li>
 </li>Разделение включения маскировки WebGL Image и WebGL Metadata<li>
 </li>Пользователь без прав владельца может мигрировать или обновлять профили до последней версии (например, из Chrome в Mimic, с версии 2.x до версии 4.x и т.д.)<li>
 </li>Возврат в группу после редактирования профиля, если редактирование профиля началось из группы.</li>
-</ul>		<p>
-<strong>Исправлено:</strong>
-</p>
+</ul>		<p><strong>Исправлено:</strong></p>
 <ul>
 </li>Ошибка “Cookie format error” при попытке импортировать Cookie в формате JSON<li>
 </li>Cookie Import не может обработать большой объем импортируемых данных<li>
 </li>Bring to front функция на Windows</li>
-</ul>		<p>
-<strong>Серверная часть:</strong>
-</p>
+</ul>		<p><strong>Серверная часть:</strong></p>
 <ul>
 </li>Исправление багов<li>
 </li>Улучшена композиция отпечатка шрифтов<li>
@@ -1075,9 +914,7 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=4.0.1">СКАЧАТЬ</a>
 <!-- ## -->
-		<p>
-<strong>Исправлено:</strong>
-</p>
+		<p><strong>Исправлено:</strong></p>
 <ul>
 </li>Ошибка при использовании функции Cookie Import<li>
 </li>Улучшили соединение для пользователей из Китая</li>
@@ -1088,24 +925,18 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=4.0">СКАЧАТЬ</a>
 <!-- ## -->
-		<p>
-<strong>Новое:</strong>
-</p>
+		<p><strong>Новое:</strong></p>
 <ul>
 </li>Ядро Mimic обновлено до Chrome версии 72<li>
 </li>Поддержка IPv6 прокси<li>
 </li>Изменены настройки по умолчанию для аппаратных отпечатков</li>
-</ul>		<p>
-<strong>Исправлено:</strong>
-</p>
+</ul>		<p><strong>Исправлено:</strong></p>
 <ul>
 </li>Проблема CookieRobot с застреванием на некоторых сайтах<li>
 </li>Невозможность поставить галочку в чекбоксы на некоторых сайтах<li>
 </li>Медленная работа браузера при использовании http прокси с авторизацией через пароль<li>
 </li>Нерабочий режим Canvas block</li>
-</ul>		<p>
-<strong>Примечания:&nbsp;</strong>
-</p>
+</ul>		<p><strong>Примечания:&nbsp;</strong></p>
 <ul>
 </li>Шоткат «Paste as human typing» не работает. Будет исправлено в одном из следующих обновлений</li>
 </ul>
@@ -1114,9 +945,7 @@
 <h2 id="multilogin-333-rise-stable" class="joli-heading">Что нового&nbsp;в Multilogin 3.3.3 Rise STABLE</h2>
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=3.3.3 Rise STABLE</h2>
 <!-- ## -->
-		<p>
-<strong>Исправлено:</strong>
-</p>
+		<p><strong>Исправлено:</strong></p>
 <ul>
 </li>Ошибка при использовании функции Cookie Import</li>
 </ul>
@@ -1126,9 +955,7 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=3.3.2">СКАЧАТЬ</a>
 <!-- ## -->
-		<p>
-<strong>Исправлено:</strong>
-</p>
+		<p><strong>Исправлено:</strong></p>
 <ul>
 </li>Улучшения интерфейса</li>
 </ul>
@@ -1138,14 +965,10 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=3.3.1">СКАЧАТЬ</a>
 <!-- ## -->
-		<p>
-<strong>Исправлено:</strong>
-</p>
+		<p><strong>Исправлено:</strong></p>
 <ul>
 </li>Багфиксы</li>
-</ul>		<p>
-<strong>Примечания:&nbsp;</strong>
-</p>
+</ul>		<p><strong>Примечания:&nbsp;</strong></p>
 <ul>
 </li>Импорт cookie-файлов Google не работает в Stealthfox. Cookie-файлы других сайтов импортируются в Stealthfox без проблем. Импорт всех cookie-файлов работает без ошибок в Mimic. Будет исправлено в одном из следующих обновлений.<li>
 </li>Опция “Natural” для маскировки отпечатка Canvas доступна всем пользователям по ошибке. Данная опция не заработает если ваш аккаунт не имеет соответствующего разрешения с нашей стороны. Мы выпустим сборку с исправлением для удаления данной опции из интерфейса.</li>
@@ -1156,10 +979,8 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=3.3">СКАЧАТЬ</a>
 <!-- ## -->
-		<p>
-<strong>Новое:<br>
-</strong>
-</p>
+		<p><strong>Новое:<br>
+</strong></p>
 <ul>
 </li>Импорт cookie-файлов в формате Netscape и JSON<li>
 </li>Локальный API эндпойнт для импорта cookie-файлов в форматах Netscape и JSON<li>
@@ -1168,9 +989,7 @@
 </li>«Experimental» тэг для пометки новых опций, которые могут быть незавершены или не до конца стабильны при стабильной работе основной части приложения<li>
 </li>Элемент интерфейса позволяющий быстро закрыть результаты поиска сессии<li>
 </li>Улучшения интерфейса</li>
-</ul>		<p>
-<strong>Исправлено:</strong>
-</p>
+</ul>		<p><strong>Исправлено:</strong></p>
 <ul>
 </li>В сотрудничестве с Luminati исправлена утечка WebRTC Public IP при использовании супер прокси Luminati.<li>
 </li>Регенерирующаяся папка deps для MacOS (исправляет ошибку “The last time you opened Multilogin, it unexpectedly quit while reopening windows” )<li>
@@ -1183,27 +1002,19 @@
 
 <a target="_blank" href="http://multilogin.com/download/multiloginapp-windows-installer/?version=3.2.1">СКАЧАТЬ</a>
 <!-- ## -->
-		<p>
-<strong>Новое:</strong>
-</p>
+		<p><strong>Новое:</strong></p>
 <ul>
 </li>Natural Canvas 1.0 БЕТА<li>
 </li>Подгрузка браузерных расширений при помощи Selenium<li>
 </li>Поддержка сервисов Google</li>
-</ul>		<p>
-<strong>Исправлено:<br>
-</strong>
-</p>
+</ul>		<p><strong>Исправлено:<br>
+</strong></p>
 <ul>
 </li>Регенерирующаяся папка deps для MacOS (исправляет ошибку “The last time you opened Multilogin, it unexpectedly quit while reopening windows” )</li>
-</ul>		<p>
-<strong>Серверная часть:</strong>
-</p>
+</ul>		<p><strong>Серверная часть:</strong></p>
 <ul>
 </li>Исправлена ошибка при которой было возможен шэринг браузерных профилей пользователям с подпиской “Free”, а также пользователям без активной подписки</li>
-</ul>		<p>
-<strong>Примечания:</strong>
-</p>
+</ul>		<p><strong>Примечания:</strong></p>
 <ul>
 </li>Эта версия доступна ограниченному числу выбранных нами пользователей для теста Natural Canvas</li>
 </ul>
@@ -1357,9 +1168,7 @@
 <li data-fontsize="35" data-lineheight="45">Completely reworked server-side infrastructure</li>
 <li data-fontsize="35" data-lineheight="45">Fixed a problem with being unable to manually edit browser profile’s font list</li>
 <li data-fontsize="35" data-lineheight="45">Fixed a problem with proxy geo-location detection</li>
-</ul>		<p>
-<strong>Notes:</strong>
-</p>
+</ul>		<p><strong>Notes:</strong></p>
 <ul>
 </li>Chromium and Firefox browsers are deprecated due to architectural conflict with browser drivers used in 3.0. If you still need them, please stay on the latest stable 2.3.x version.<li>
 </li>Password saving in a browser will be added later</li>
@@ -1509,9 +1318,7 @@
 </li>Fixed session data corruption during browser profile ownership transfer<li>
 </li>Fixed “Mimic driver missing” problem in BAS integration<li>
 </li>Further reduced CPU load</li>
-</ul>		<p>
-<strong>The list of known issues which are not yet fixed:</strong>
-</p>
+</ul>		<p><strong>The list of known issues which are not yet fixed:</strong></p>
 <ul>
 </li>DRM playback is not working on MacOS<li>
 </li>Cookie mismatch problem in Google services may continue appearing on old browser profiles. This is because cookies on versions below 2.1.1 sometimes are not fully saved. Version 2.1.1 is backward compatible with &lt;2.1, thus it restores not fully saved cookies. This problem will NOT happen in browser profiles created in 2.1.1 and greater versions. This is NOT a bug. You can fix this problem on old profiles by manually deleting Google cookies from a profile</li>
@@ -2060,4 +1867,3 @@
 </li>Updated browser profile edit forms</li>
 </ul>
 </div>
- 
