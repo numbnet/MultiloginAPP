@@ -15,8 +15,8 @@ CookieRobot не прекращает работу даже если внесе�
 Исправлены баги в работе UI.
 
 > СКАЧАТЬ ВЕРСИИ
-> [WINDOWS](https://multilogin.com/download/multiloginapp-windows-installer/?version=6.1.4)
-> [LINUX](http://multilogin.com/download/multiloginapp-linux-x64-client/?version=6.1.4)
+- [WINDOWS](https://multilogin.com/download/multiloginapp-windows-installer/?version=6.1.4)
+- [LINUX x64](http://multilogin.com/download/multiloginapp-linux-x64-client/?version=6.1.4)
 
 
 
@@ -32,8 +32,8 @@ CookieRobot не прекращает работу даже если внесе�
 Исправили проблему с кнопкой «Стоп» на Linux.
 
 > СКАЧАТЬ ВЕРСИИ
-> [WINDOWS](https://multilogin.com/download/multiloginapp-windows-installer/?version=6.1.3)
-> [LINUX](http://multilogin.com/download/multiloginapp-linux-x64-client/?version=6.1.4)
+- [WINDOWS](https://multilogin.com/download/multiloginapp-windows-installer/?version=6.1.3)
+- [LINUX x64](http://multilogin.com/download/multiloginapp-linux-x64-client/?version=6.1.4)
 
 
 ## Что нового в Multilogin 6.1.2 Luna Stable (2022/03/29)
