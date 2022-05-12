@@ -15,8 +15,8 @@ CookieRobot не прекращает работу даже если внесе�
 Исправлены баги в работе UI.
 
 > СКАЧАТЬ ВЕРСИИ
-[WINDOWS](https://multilogin.com/download/multiloginapp-windows-installer/?version=6.1.4")
-[LINUX](https://multilogin.com/download/multiloginapp-linux-installer/?version=6.1.4")
+- [WINDOWS](https://multilogin.com/download/multiloginapp-windows-installer/?version=6.1.4")
+- [LINUX](https://multilogin.com/download/multiloginapp-linux-installer/?version=6.1.4")
 
 
 
