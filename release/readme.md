@@ -1,7 +1,9 @@
 # Журнал изменений
 
 
-## Что нового в Multilogin 6.1.4 Luna Stable (2022/04/27)
+<details><summary>Что нового в Multilogin 6.1.4 Luna Stable (2022/04/27)
+</summary>
+<p>
 
 - Новое
 
@@ -18,6 +20,8 @@ CookieRobot не прекращает работу даже если внесе�
 - [Скачать под Windows](https://multilogin.com/download/multiloginapp-windows-installer/?version=6.1.4)
 - [Скачать под Linux x64](http://multilogin.com/download/multiloginapp-linux-x64-client/?version=6.1.4)
 
+</p>
+</details>
 
 
 ## Что нового в Multilogin 6.1.3 Luna Stable (2022/04/18)
