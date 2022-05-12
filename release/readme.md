@@ -14,6 +14,11 @@ CookieRobot не прекращает работу даже если внесе�
 Исправлена проблема с корректным сохранением настроек расширений, добавленных в профили Mimic.
 Исправлены баги в работе UI.
 
+> СКАЧАТЬ ВЕРСИИ
+[WINDOWS](https://multilogin.com/download/multiloginapp-windows-installer/?version=6.1.4")
+[LINUX](https://multilogin.com/download/multiloginapp-linux-installer/?version=6.1.4")
+
+
 
 ## Что нового в Multilogin 6.1.3 Luna Stable (2022/04/18)
 
